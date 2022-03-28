@@ -58,7 +58,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/tanjiro.png
+            src: img/tanjiro.jpg
 
     article:
         math: false
