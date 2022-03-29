@@ -2,7 +2,7 @@ baseurl: https://ulatruong.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Ula Truong
+title: Ula's Blog
 
 languages:
     en:
@@ -49,7 +49,7 @@ params:
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
+        published: Mar 26, 2022
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
@@ -197,7 +197,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/ulatruong
           params:
               icon: brand-github
 
