@@ -1,8 +1,8 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
+author = "Ula"
+title = "Hướng dẫn cú pháp Markdown."
 date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "Bài viết mẫu giới thiệu cú pháp Markdown cơ bản và định dạng cho các phần tử HTML."
 tags = [
     "markdown",
     "css",
@@ -18,12 +18,13 @@ aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Bài viết này cung cấp một mẫu cú pháp Markdown cơ bản được sử dụng trong file nội dung của Hugo, nó cũng cho thấy liêu các yếu tô HTML cơ bản có được trang trí với css trong theme Hugo hay không.
+
 <!--more-->
 
 ## Headings
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Các phần tử của HTML `<h1>`—`<h6>` thể hiện cho 6 cấp độ của các phần `<h1>` là mức độ cao nhất trong khi `<h6>` là cấp độ thấp nhất.
 
 # H1
 ## H2
@@ -34,20 +35,21 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 ## Paragraph
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+Mạng 4G là tên viết tắt của Fourth-Generation, đây là công nghệ truyền thông không dây cho phép truyền tải dữ liệu tối đa lên tới 1 - 1.5Gb/giây ở điều kiện lý tưởng. Các tiêu chuẩn thiết lập cho kết nối 4G được Tổ chức kết nối mạng thế giới ITU-R ban hành vào tháng 3 năm 2008, đòi hỏi tất cả các dịch vụ có 4G phải tuân thủ đúng một loạt các tiêu chuẩn về đường truyền tốc độ và kết nối.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+Mạng LTE là thuật ngữ có tên tiếng Anh là Long Term Evolution, được hiểu nôm na là “Tiến hóa dài hạn”. Mạng LTE không được xem là một công nghệ mạng, thay vào đó LTE chỉ là một tiêu chuẩn công nghệ được cải tiến từ các chuẩn GSM.UMTS.
 
 ## Blockquotes
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+Phần tử blockquote đại diện cho nội dung được trích dẫn từ một nguồn khác, tùy chọn với phần trích dẫn phải nằm trong phần tử `footer` hoặc `cite`, và tùy chọn với các thay đổi trong dòng như chú thích và chữ viết tắt.
 
-#### Blockquote without attribution
+
+#### Blockquote mà không attribution
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 > **Note** that you can use *Markdown syntax* within a blockquote.
 
-#### Blockquote with attribution
+#### Blockquote với attribution
 
 > Don't communicate by sharing memory, share memory by communicating.<br>
 > — <cite>Rob Pike[^1]</cite>
@@ -56,7 +58,7 @@ The blockquote element represents content that is quoted from another source, op
 
 ## Tables
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+Các bảng không phải là một phần của Markdown cốt lõi, nhưng Hugo hỗ trợ hỗ trợ chúng.
 
    Name | Age
 --------|------
