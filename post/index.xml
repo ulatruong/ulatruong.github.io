@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Ula Truong</title><link>https://ulatruong.github.io/post/</link><description>Recent content in Posts on Ula Truong</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Mar 2022 15:35:23 +0700</lastBuildDate><atom:link href="https://ulatruong.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>First Blog</title><link>https://ulatruong.github.io/p/first-blog/</link><pubDate>Thu, 24 Mar 2022 15:35:23 +0700</pubDate><guid>https://ulatruong.github.io/p/first-blog/</guid><description>&lt;p>draft: true draft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: true&lt;/p></description></item><item><title>Markdown Syntax Guide</title><link>https://ulatruong.github.io/p/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://ulatruong.github.io/p/markdown-syntax-guide/</guid><description>&lt;img src="https://ulatruong.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Ula Truong</title><link>https://ulatruong.github.io/post/</link><description>Recent content in Posts on Ula Truong</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Mar 2022 15:35:23 +0700</lastBuildDate><atom:link href="https://ulatruong.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>First Blog</title><link>https://ulatruong.github.io/p/first-blog/</link><pubDate>Thu, 24 Mar 2022 15:35:23 +0700</pubDate><guid>https://ulatruong.github.io/p/first-blog/</guid><description>&lt;p>draft: true draft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: truedraft: true&lt;/p></description></item><item><title>Hướng dẫn cú pháp Markdown.</title><link>https://ulatruong.github.io/p/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%BA-ph%C3%A1p-markdown./</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://ulatruong.github.io/p/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%BA-ph%C3%A1p-markdown./</guid><description>&lt;img src="https://ulatruong.github.io/p/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%BA-ph%C3%A1p-markdown./pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Hướng dẫn cú pháp Markdown." />&lt;p>Bài viết này cung cấp một mẫu cú pháp Markdown cơ bản được sử dụng trong file nội dung của Hugo, nó cũng cho thấy liêu các yếu tô HTML cơ bản có được trang trí với css trong theme Hugo hay không.&lt;/p>
 &lt;h2 id="headings">Headings&lt;/h2>
-&lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
+&lt;p>Các phần tử của HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> thể hiện cho 6 cấp độ của các phần &lt;code>&amp;lt;h1&amp;gt;&lt;/code> là mức độ cao nhất trong khi &lt;code>&amp;lt;h6&amp;gt;&lt;/code> là cấp độ thấp nhất.&lt;/p>
 &lt;h1 id="h1">H1&lt;/h1>
 &lt;h2 id="h2">H2&lt;/h2>
 &lt;h3 id="h3">H3&lt;/h3>
@@ -8,22 +8,22 @@
 &lt;h5 id="h5">H5&lt;/h5>
 &lt;h6 id="h6">H6&lt;/h6>
 &lt;h2 id="paragraph">Paragraph&lt;/h2>
-&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p>
-&lt;p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p>
+&lt;p>Mạng 4G là tên viết tắt của Fourth-Generation, đây là công nghệ truyền thông không dây cho phép truyền tải dữ liệu tối đa lên tới 1 - 1.5Gb/giây ở điều kiện lý tưởng. Các tiêu chuẩn thiết lập cho kết nối 4G được Tổ chức kết nối mạng thế giới ITU-R ban hành vào tháng 3 năm 2008, đòi hỏi tất cả các dịch vụ có 4G phải tuân thủ đúng một loạt các tiêu chuẩn về đường truyền tốc độ và kết nối.&lt;/p>
+&lt;p>Mạng LTE là thuật ngữ có tên tiếng Anh là Long Term Evolution, được hiểu nôm na là “Tiến hóa dài hạn”. Mạng LTE không được xem là một công nghệ mạng, thay vào đó LTE chỉ là một tiêu chuẩn công nghệ được cải tiến từ các chuẩn GSM.UMTS.&lt;/p>
 &lt;h2 id="blockquotes">Blockquotes&lt;/h2>
-&lt;p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code>footer&lt;/code> or &lt;code>cite&lt;/code> element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p>
-&lt;h4 id="blockquote-without-attribution">Blockquote without attribution&lt;/h4>
+&lt;p>Phần tử blockquote đại diện cho nội dung được trích dẫn từ một nguồn khác, tùy chọn với phần trích dẫn phải nằm trong phần tử &lt;code>footer&lt;/code> hoặc &lt;code>cite&lt;/code>, và tùy chọn với các thay đổi trong dòng như chú thích và chữ viết tắt.&lt;/p>
+&lt;h4 id="blockquote-mà-không-attribution">Blockquote mà không attribution&lt;/h4>
 &lt;blockquote>
 &lt;p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 &lt;strong>Note&lt;/strong> that you can use &lt;em>Markdown syntax&lt;/em> within a blockquote.&lt;/p>
 &lt;/blockquote>
-&lt;h4 id="blockquote-with-attribution">Blockquote with attribution&lt;/h4>
+&lt;h4 id="blockquote-với-attribution">Blockquote với attribution&lt;/h4>
 &lt;blockquote>
 &lt;p>Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;!-- raw HTML omitted -->
 — &lt;!-- raw HTML omitted -->Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="tables">Tables&lt;/h2>
-&lt;p>Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p>
+&lt;p>Các bảng không phải là một phần của Markdown cốt lõi, nhưng Hugo hỗ trợ hỗ trợ chúng.&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
